@@ -1,1 +1,1 @@
-document.write("THIS IS A JS CODE")
+document.write("THIS IS A JS CODE ")
