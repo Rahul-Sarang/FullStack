@@ -1,0 +1,1 @@
+document.write("THIS IS A JS CODE")
